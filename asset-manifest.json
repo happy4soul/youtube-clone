@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/your-repo-name/static/js/main.fdf82962.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.fdf82962.js.map": "/your-repo-name/static/js/main.fdf82962.js.map"
+    "main.js": "/youtube-clone/static/js/main.fdf82962.js",
+    "index.html": "/youtube-clone/index.html",
+    "main.fdf82962.js.map": "/youtube-clone/static/js/main.fdf82962.js.map"
   },
   "entrypoints": [
     "static/js/main.fdf82962.js"
